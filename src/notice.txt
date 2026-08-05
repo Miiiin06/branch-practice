@@ -2,3 +2,4 @@ version 1 !
 version red
 version thick
 오타 수정
+수정 수정
